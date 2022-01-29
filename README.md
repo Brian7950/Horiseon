@@ -15,3 +15,7 @@ updated style.css file to correct for semantic html
 corrected a href="#search-engine-optimization"Search Engine Optimization tag to have funtionality by adding id="search-engine-optimization" to article class="search-engine-optimization". 
 
 updated readme file to be read easier. 
+
+Consolidated CSS Styles and updated class names 
+
+https://brian7950.github.io/Horiseon/
